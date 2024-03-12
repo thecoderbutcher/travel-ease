@@ -1,3 +1,9 @@
+import logo from '../assets/logo.webp'
+
+export {
+    logo,
+}
+
 export const navigation = [
     {
         path:'/hero',
